@@ -12,6 +12,7 @@ nav{
    border: 1px solid black;
    margin: 0px 0px 0px 0px;
    font-family: 'Oswald';
+   
 
 }
 nav p{
@@ -19,6 +20,7 @@ nav p{
     color: red;
     font-size: 25px;
     font-weight: bold;
+    padding: 0px 10px;
 
     
 }
@@ -38,6 +40,7 @@ header h1{
     font-family: 'Oswald';
     text-align: center;
     color: red;
+   
 }
 main figure{
     text-align: center;
@@ -48,5 +51,8 @@ main h2{
     font-family: 'Oswald';
 
 
+}
+main p{
+    text-align: center;
 }
 
